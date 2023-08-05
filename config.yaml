@@ -113,7 +113,8 @@ params:
       id:
 
   widgets:
-    homepage: [layout: search, layout: search]
+    homepage:
+      - type: search
     page: []
 
   opengraph:
