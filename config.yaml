@@ -21,7 +21,7 @@ params:
   sidebar:
     compact: false
     emoji: 🥹
-    subtitle: "진도ㅈ.. 아니 진도캣의 뻘짓 일기"
+    subtitle: "진도지 아닙니다."
     avatar:
       enabled: true
       local: true
@@ -115,7 +115,8 @@ params:
   widgets:
     homepage:
       - type: search
-    page: []
+    page:
+      - type: search
 
   opengraph:
     twitter:
